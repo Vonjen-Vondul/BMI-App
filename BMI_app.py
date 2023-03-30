@@ -3,7 +3,7 @@ from PIL import Image
 
 st.title("BMI Calculator App")
 
-img=Image.open("BMI.JPG")
+img=Image.open("BMI.jpg")
 
 st.image(img)
 
